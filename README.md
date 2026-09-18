@@ -231,11 +231,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Author
 
-**Hassan Ansari**
+**Santoshi**
 B.Tech CSE, SRM Institute of Science and Technology
 
-- GitHub: [@hassan-ansari](https://github.com/hassan-ansari)
-- LinkedIn: *add your link here*
+- GitHub: [@santoshiiiiii]-cloud(https://github.com/santoshiiiiii-cloud)
 
 ---
 
